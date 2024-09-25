@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+.env
+config.ini
+credentials.json
+token.pickle
+
+# Streamlit
+.streamlit/
+
+# LangChain
+.langchain/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Google Sheets API
+client_secret.json
+
+# LinkedIn API
+linkedin_credentials.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
